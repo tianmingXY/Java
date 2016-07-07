@@ -1,16 +1,13 @@
 package com.yydhy;
 
+/**
+ * java git æµ‹è¯•æµ‹è¯•
+ * @author Administrator
+ *
+ */
 public class Test01 {
 	public static void main(String[] args) {
-		System.err.println("git²âÊÔ");
-		System.err.println("git²âÊÔ");
-		System.err.println("git²âÊÔ");
-		System.err.println("git²âÊÔ");
-		System.err.println("git²âÊÔ");
-		System.err.println("git²âÊÔ");
-		System.err.println("git²âÊÔ");
-		System.err.println("git²âÊÔ");
-		System.err.println("git²âÊÔ");
+		System.err.println("æµ‹è¯•gitç‰ˆæœ¬æ§åˆ¶ç®¡ç†");
 	}
 
 }
